@@ -12,7 +12,7 @@ quest can be completed or ignored at the player's preference after the first sta
 some quests rely on the main storyline being at least partially completed. Non-player characters (NPCs) populate
 the world and can be interacted with in a number of ways: the player may engage them in conversation, marry an eligible
 NPC, kill them or engage in a nonlethal "brawl". As in previous The Elder Scrolls games, killing certain NPCs can make
-some quests or items unobtainable. Some NPCs cannot be killed due to their importance in later storylines. If witnessed,
+some quests or items unobtainable. Some NPCs cannot be killed due to their importance in later story-lines. If witnessed,
 crimes like murder and theft accrue the player a bounty which is tracked independently in each of Skyrim's nine holds.
 """  # You can paste pretty much any text you want / Right now this is just some random text of the elder scrolls game
 print(text)  # Just shows the text to user
